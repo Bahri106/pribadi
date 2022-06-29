@@ -49,7 +49,7 @@ global.location = "Surga, dan, Neraka" //ur location
 
 //bot bombdy
 global.botname = "Vanz Botz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw" //ur website
+global.websitex = "https://github.com/Kahfi-XD/pribadi" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/wNlvYrzP.mp4' } //gif and video menu
 global.packname = "Vanz Botz\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Created by Kahfi Official"
@@ -58,7 +58,7 @@ global.reactmoji = "😘"
 global.ownertag = ['6285380166282'] //ur owner tag
 global.ownernummenu = ['6285380166282'] //ur owner number in menu and all
 global.watermark = "Vanz Botz." //ur watermark
-global.botscript = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw"
+global.botscript = "https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw"
 global.linkz1 = "https://chat.whatsapp.com/L1nuhIsYNRG8FMnVFRa2Hs"
 global.linkz2 = "https://chat.whatsapp.com/ETdJuzykQNM2YmtjAeeNno"
 
