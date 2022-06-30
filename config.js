@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285380166282,6285845423164'] //ur owner number
+global.owner = ['6285380166282'] //ur owner number
 global.ownername = "Kahfi Aja"
 global.ytname = "YT: Kahfi Official" //ur yt chanel name
 global.socialm = "IG : Kahfi_tzy" //ur github or insta name
@@ -55,7 +55,7 @@ global.packname = "Vanz Botz\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Created by Kahfi Official"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6285380166282,6285845423164'] //ur owner tag
+global.ownertag = ['6285380166282'] //ur owner tag
 global.ownernummenu = ['6285380166282,6285845423164'] //ur owner number in menu and all
 global.watermark = "Vanz Botz." //ur watermark
 global.botscript = "https://github.com/Kahfi-XD/pribadi"
